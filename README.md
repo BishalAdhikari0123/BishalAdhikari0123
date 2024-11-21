@@ -3,6 +3,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalAdhikari0123&layout=compact&theme=dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=BishalAdhikari0123&theme=radical)
 ![Metrics](https://github.com/<BishalAdhikari0123>/<repository>/blob/main/metrics.svg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BishalAdhikari0123&theme=dark&hide_border=true)
+
 
 
 <!--
