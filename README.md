@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BishalAdhikari0123&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalAdhikari0123&layout=compact&theme=dark)
 
 <!--
 **BishalAdhikari0123/BishalAdhikari0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
