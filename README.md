@@ -4,6 +4,8 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=BishalAdhikari0123&theme=radical)
 ![Metrics](https://github.com/<BishalAdhikari0123>/<repository>/blob/main/metrics.svg)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BishalAdhikari0123&theme=dark&hide_border=true)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BishalAdhikari0123&repo=RepoName&theme=dark)](https://github.com/YourUsername/RepoName)
+
 
 
 
